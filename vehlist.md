@@ -46,17 +46,12 @@
 - [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine) - tested
 - [Lamborghini Diablo SV 1995-2001](https://www.gta5-mods.com/vehicles/lamborghini-diablo-sv-1995-2001-add-on-template-extras) - tested
 - [2018 Pagani Huayra Roadster](https://www.gta5-mods.com/vehicles/2018-pagani-huayra-roadster-aero-flaps-add-on) - tested
-- [2010 Lexus LFA](https://www.gta5-mods.com/vehicles/2010-lexus-lfa) - tested
 - [2020 Ferrari SF90 Stradale](https://www.gta5-mods.com/vehicles/2020-ferrari-sf90-stradale-add-on-lods-template) - tested
 - [Bugatti Veyron Vitesse](https://www.gta5-mods.com/vehicles/bugatti-veyron-vitesse-add-on-autospoiler-tuning-wheels-extras-template) - tested
 - [2010 Lamborghini Murcielago LP670-4](https://www.gta5-mods.com/vehicles/2010-lamborghini-murcielago-lp670-4) - tested
 - [2015 Ferrari LaFerrari](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) - tested
-- [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler)
-- [Nissan Skyline GT-R (R34) drift handling](https://www.gta5-mods.com/vehicles/2002-nissan-skyline-gt-r-r34)
-- [BMW M3 GTR E46 drift handling](https://www.gta5-mods.com/vehicles/bmw-m3-gtr-e46-most-wanted)
-- [Mitsubishi Lancer Evolution IX drift handling](https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-ix)
-- [Stanced Nissan S15 drift handling](https://www.gta5-mods.com/vehicles/wide-camber-low-s15)
-- [Honda S2000 drift handling](https://www.gta5-mods.com/vehicles/honda-s2000-tunable)
+- [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler) - tested
+- [Honda S2000 drift handling](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) - tested
 - [Stanced Toyota Supra drift handling](https://www.gta5-mods.com/vehicles/toyota-supra-rz-98)
 - [Nissan 2000GT-R drift handling](https://www.gta5-mods.com/vehicles/nissan-2000gt-r-beta)
 - [Nissan 370z drift handling](https://www.gta5-mods.com/vehicles/nissan-370z)
