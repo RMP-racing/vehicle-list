@@ -52,25 +52,17 @@
 - [2015 Ferrari LaFerrari](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) - tested
 - [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler) - tested
 - [Honda S2000 drift handling](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) - tested
-- [Stanced Toyota Supra drift handling](https://www.gta5-mods.com/vehicles/toyota-supra-rz-98)
-- [Nissan 2000GT-R drift handling](https://www.gta5-mods.com/vehicles/nissan-2000gt-r-beta)
-- [Nissan 370z drift handling](https://www.gta5-mods.com/vehicles/nissan-370z)
-- [Mitsubishi Lancer Evo X drift handling](https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evo-x)
-- [Nissan 240SX drift handling](https://www.gta5-mods.com/vehicles/nissan-240sx-tunable)
-- [Nissan Silvia S13 drift handling](https://www.gta5-mods.com/vehicles/nissan-240sx-s13)
-- [Ford Mustang GT drift handling](https://www.gta5-mods.com/vehicles/ford-mustang-gt-rocketb-wide-body)
-- [Audi Quattro Sport 1983](https://pt.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning)
-- [BMW M2 F87 2016](https://pt.gta5-mods.com/vehicles/bmw-m2-f22-2016-add-on-tuning)
-- [2014 BMW M4 F82](https://pt.gta5-mods.com/vehicles/2014-bmw-m4-f82-varis-kit)
-- [BMW M3 E92 2010](https://pt.gta5-mods.com/vehicles/bmw-m3-e92-2010-v1-0)
-- [BMW M3 E46 2005](https://pt.gta5-mods.com/vehicles/bmw-m3-e46-2005)
-- [2009 Ford Focus RS](https://pt.gta5-mods.com/vehicles/2009-ford-focus-rs-add-on-rhd-template)
-- [Ford Focus RS 2017](https://pt.gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery)
-- [Mazda MX-5 Miata](https://pt.gta5-mods.com/vehicles/1994-mazda-mx-5-miata-na6c)
-- [2017 Mercedes-AMG A45 W176](https://pt.gta5-mods.com/vehicles/mercedes-amg-a45-2017)
-- [Mercedes Benz AMG C 63 S Coupe 2016](https://pt.gta5-mods.com/vehicles/mercedes-benz-amg-c-63-s-coupe-2016-1-0)
-- [2013 Mercedes-AMG C63](https://pt.gta5-mods.com/vehicles/2013-mercedes-amg-c63-w204-facelift-add-on-black-series-brabus-tuning)
-- [Subaru Impreza WRX STI 2004](https://pt.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning)
+- [Audi Quattro Sport 1983](https://pt.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) - tested
+- [BMW M2 F87 2016](https://pt.gta5-mods.com/vehicles/bmw-m2-f22-2016-add-on-tuning) - tested
+- [2014 BMW M4 F82](https://pt.gta5-mods.com/vehicles/2014-bmw-m4-f82-varis-kit) - tested
+- [BMW M3 E92 2010](https://pt.gta5-mods.com/vehicles/bmw-m3-e92-2010-v1-0) - tested
+- [BMW M3 E46 2005](https://pt.gta5-mods.com/vehicles/bmw-m3-e46-2005) - tested
+- [Ford Focus RS 2017](https://pt.gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery) - tested
+- [Mazda MX-5 Miata](https://pt.gta5-mods.com/vehicles/1994-mazda-mx-5-miata-na6c) - tested
+- [2017 Mercedes-AMG A45 W176](https://pt.gta5-mods.com/vehicles/mercedes-amg-a45-2017) - tested
+- [Mercedes Benz AMG C 63 S Coupe 2016](https://pt.gta5-mods.com/vehicles/mercedes-benz-amg-c-63-s-coupe-2016-1-0) - tested
+- [2013 Mercedes-AMG C63](https://pt.gta5-mods.com/vehicles/2013-mercedes-amg-c63-w204-facelift-add-on-black-series-brabus-tuning) - tested
+- [Subaru Impreza WRX STI 2004](https://pt.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) - tested
 - [1998 Volkswagen Golf MK3 GTI VR6](https://pt.gta5-mods.com/vehicles/1998-volkswagen-golf-mk3-gti-vr6-add-on)
 - [2015 Alfa Romeo 4c Spider](https://www.gta5-mods.com/vehicles/2015-alfa-romeo-4c-spider-add-on)
 - [Alfa Romeo 8C Competizione 2008](https://www.gta5-mods.com/vehicles/alfa-romeo-8c-competizione-2008-add-on-lods-extras-template)
