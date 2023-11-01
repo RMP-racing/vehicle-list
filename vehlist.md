@@ -3,7 +3,7 @@
 -->
 
 
-# Sport Cars (96 cars)
+# Sport Cars (95 cars)
 
 - [1999 Lotus Elise Sport 190](https://www.gta5-mods.com/vehicles/1999-lotus-elise-sport-190-add-on-extras-template-lods-vehfuncs-cipherog) - tested 
 - [Ford GT40 Mk I '64](https://www.gta5-mods.com/vehicles/ford-gt40-mk-i-64-add-on-template-extras) - tested
@@ -66,7 +66,6 @@
 - [1998 Volkswagen Golf MK3 GTI VR6](https://pt.gta5-mods.com/vehicles/1998-volkswagen-golf-mk3-gti-vr6-add-on)
 - [2015 Alfa Romeo 4c Spider](https://www.gta5-mods.com/vehicles/2015-alfa-romeo-4c-spider-add-on)
 - [Alfa Romeo 8C Competizione 2008](https://www.gta5-mods.com/vehicles/alfa-romeo-8c-competizione-2008-add-on-lods-extras-template)
-- [Alfa Romeo Giulia Quadrifoglio 2017](https://www.gta5-mods.com/vehicles/alfa-romeo-giulia-quadrifoglio-170)
 - [2017 Bentley Bentayga](https://www.gta5-mods.com/vehicles/2017-bentley-bentayga-add-on-tuning-analog-digital-dials)
 - [Bentley Continental GT 2018](https://www.gta5-mods.com/vehicles/bentley-continental-gt-2018-1-0-replace-addon)
 - [2016 SRT Viper ACR](https://www.gta5-mods.com/vehicles/2014-srt-viper-t-a)
