@@ -64,9 +64,9 @@
 - [2013 Mercedes-AMG C63](https://pt.gta5-mods.com/vehicles/2013-mercedes-amg-c63-w204-facelift-add-on-black-series-brabus-tuning) - tested
 - [Subaru Impreza WRX STI 2004](https://pt.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) - tested
 - [1998 Volkswagen Golf MK3 GTI VR6](https://pt.gta5-mods.com/vehicles/1998-volkswagen-golf-mk3-gti-vr6-add-on)
-- [2015 Alfa Romeo 4c Spider](https://www.gta5-mods.com/vehicles/2015-alfa-romeo-4c-spider-add-on)
-- [Alfa Romeo 8C Competizione 2008](https://www.gta5-mods.com/vehicles/alfa-romeo-8c-competizione-2008-add-on-lods-extras-template)
-- [2017 Bentley Bentayga](https://www.gta5-mods.com/vehicles/2017-bentley-bentayga-add-on-tuning-analog-digital-dials)
+- [2015 Alfa Romeo 4c Spider](https://www.gta5-mods.com/vehicles/2015-alfa-romeo-4c-spider-add-on) - tested
+- [Alfa Romeo 8C Competizione 2008](https://www.gta5-mods.com/vehicles/alfa-romeo-8c-competizione-2008-add-on-lods-extras-template) - tested
+- [2017 Bentley Bentayga](https://www.gta5-mods.com/vehicles/2017-bentley-bentayga-add-on-tuning-analog-digital-dials) - tested
 - [Bentley Continental GT 2018](https://www.gta5-mods.com/vehicles/bentley-continental-gt-2018-1-0-replace-addon)
 - [2016 SRT Viper ACR](https://www.gta5-mods.com/vehicles/2014-srt-viper-t-a)
 - [2017 Koenigsegg Agera RS](https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on)
