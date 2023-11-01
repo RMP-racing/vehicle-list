@@ -87,40 +87,33 @@
 - [2010 Ferrari 458 Italia Add-On | Tuning | Extras | Template](https://www.gta5-mods.com/vehicles/2010-ferrari-458-italia-add-on-tuning-extras-template) - tested
 - [2020 Toyota GR Supra](https://www.gta5-mods.com/vehicles/2020-toyota-gr-supra-add-on-tuning-template) - tested
 
-# SUV (12 cars)
+# SUV (7 cars)
 
-- [2019 Mercedes-Benz G63](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-g63-addon-replace)
-- [2002 Cadillac Escalade ESV](https://www.gta5-mods.com/vehicles/2002-cadillac-escalade-esv-add-on)
-- [2021 Land Rover Defender](https://www.gta5-mods.com/vehicles/2021-land-rover-defender-addon-replace-dials-lods) 
-- [2017 Ford Raptor](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning)
-- [BMW X1 XDrive 20d 2016](https://www.gta5-mods.com/vehicles/bmw-x1-sdrive-20d-2016)
-- [Audi Q8 2020](https://www.gta5-mods.com/vehicles/audi-q8-2020)
-- [Volkswagen Amarok](https://www.gta5-mods.com/vehicles/volkswagen-amarok-add-on-replace-fivem-dev)
-- [Lexus LX570 2019 Add-On / Animated](https://www.gta5-mods.com/vehicles/lexus-lx570-2019-add-on-animated)
-- [Toyota Fortuner 2022 Add-On | Extras | Tuning](https://www.gta5-mods.com/vehicles/toyota-fortuner-2022-add-on-tuning-extras-death-assassin-mods)
-- [2019 Range Rover Velar Add-On](https://www.gta5-mods.com/vehicles/2018-range-rover-velar)
-- [Audi Q7 2020 Add-On | Extras](https://www.gta5-mods.com/vehicles/audi-q7-2020)
-- [Lincoln Navigator (U554) '2017 Add-On | AO | Template](https://www.gta5-mods.com/vehicles/lincoln-navigator-u554-2017-add-on-ao-template)
+- [2019 Mercedes-Benz G63](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-g63-addon-replace) - tested
+- [2002 Cadillac Escalade ESV](https://www.gta5-mods.com/vehicles/2002-cadillac-escalade-esv-add-on) - tested
+- [2021 Land Rover Defender](https://www.gta5-mods.com/vehicles/2021-land-rover-defender-addon-replace-dials-lods) - tested
+- [2017 Ford Raptor](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) - tested
+- [Volkswagen Amarok](https://www.gta5-mods.com/vehicles/volkswagen-amarok-add-on-replace-fivem-dev) - tested
+- [Audi Q7 2020 Add-On | Extras](https://www.gta5-mods.com/vehicles/audi-q7-2020) - tested
+- [Lincoln Navigator (U554) '2017 Add-On | AO | Template](https://www.gta5-mods.com/vehicles/lincoln-navigator-u554-2017-add-on-ao-template) - tested
 
-# Luxury Cars (7 cars)
+# Luxury Cars (6 cars)
 
-- [Volvo V60 Add-On | Tuning](https://www.gta5-mods.com/vehicles/volvo-v60-add-on-tuning-fivem)
-- [Lexus IS350 F-Sport 2021](https://www.gta5-mods.com/vehicles/2021-lexus-is350-f-sport-fivem-addon)
-- [2014 Rolls-Royce Wraith Add-On | Animated | Extras | Template](https://www.gta5-mods.com/vehicles/2014-rolls-royce-wraith-add-on-animated-extras-template)
-- [Rolls-Royce Phantom (VIII) Aphrodisiac 2021](https://www.gta5-mods.com/vehicles/rolls-royce-phantom-viii-aphrodisiac-2021-add-on-v1-0)
-- [2014 Volkswagen Phaeton W12](https://www.gta5-mods.com/vehicles/2014-volkswagen-phaeton-w12)
-- [Polestar One (Polestar 1) 2020 Add-On | Tuning](https://www.gta5-mods.com/vehicles/polestar-one-polestar-1-2020-tuning)
-- [2016 Volkswagen Passat B8 Add-On / Replace | Wipers](https://www.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on)
+- [Volvo V60 Add-On | Tuning](https://www.gta5-mods.com/vehicles/volvo-v60-add-on-tuning-fivem) - tested
+- [Lexus IS350 F-Sport 2021](https://www.gta5-mods.com/vehicles/2021-lexus-is350-f-sport-fivem-addon) - tested
+- [2014 Rolls-Royce Wraith Add-On | Animated | Extras | Template](https://www.gta5-mods.com/vehicles/2014-rolls-royce-wraith-add-on-animated-extras-template) - tested
+- [Rolls-Royce Phantom (VIII) Aphrodisiac 2021](https://www.gta5-mods.com/vehicles/rolls-royce-phantom-viii-aphrodisiac-2021-add-on-v1-0) - tested
+- [Polestar One (Polestar 1) 2020 Add-On | Tuning](https://www.gta5-mods.com/vehicles/polestar-one-polestar-1-2020-tuning) - tested
+- [2016 Volkswagen Passat B8 Add-On / Replace | Wipers](https://www.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) - tested
 
-# Classic Cars (7 cars)
+# Classic Cars (6 cars)
 
-- [1978 Cadillac Fleetwood Brougham D'elegance](https://www.gta5-mods.com/vehicles/1978-cadillac-fleetwood-brougham-d-elegance-add-on-tuning-wheels-template)
-- [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
-- [Ferrari Testarossa 1986](https://www.gta5-mods.com/vehicles/ferrari-testarossa-1986-add-on)
-- [1987 Ferrari F120 (F-40)](https://www.gta5-mods.com/vehicles/1987-ferrari-f120-f-40-eu-spec-hq-lods-animations)
-- [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
-- [Lincoln Town Car 1979 Limousine](https://www.gta5-mods.com/vehicles/lincoln-town-car-1979-limousine-add-on)
-- [Lotus Esprit S1 Add-On | VehFuncs V](https://www.gta5-mods.com/vehicles/lotus-esprit-s1-add-on-vehfuncs-v)
+- [1978 Cadillac Fleetwood Brougham D'elegance](https://www.gta5-mods.com/vehicles/1978-cadillac-fleetwood-brougham-d-elegance-add-on-tuning-wheels-template) - tested
+- [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt) - tested (maybe removed in the future)
+- [Ferrari Testarossa 1986](https://www.gta5-mods.com/vehicles/ferrari-testarossa-1986-add-on) - tested
+- [1987 Ferrari F120 (F-40)](https://www.gta5-mods.com/vehicles/1987-ferrari-f120-f-40-eu-spec-hq-lods-animations) - tested
+- [Lincoln Town Car 1979 Limousine](https://www.gta5-mods.com/vehicles/lincoln-town-car-1979-limousine-add-on) - tested
+- [Lotus Esprit S1 Add-On | VehFuncs V](https://www.gta5-mods.com/vehicles/lotus-esprit-s1-add-on-vehfuncs-v) - tested
 
 # Muscle Cars (11 cars)
 
