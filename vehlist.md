@@ -67,12 +67,12 @@
 - [2015 Alfa Romeo 4c Spider](https://www.gta5-mods.com/vehicles/2015-alfa-romeo-4c-spider-add-on) - tested
 - [Alfa Romeo 8C Competizione 2008](https://www.gta5-mods.com/vehicles/alfa-romeo-8c-competizione-2008-add-on-lods-extras-template) - tested
 - [2017 Bentley Bentayga](https://www.gta5-mods.com/vehicles/2017-bentley-bentayga-add-on-tuning-analog-digital-dials) - tested
-- [Bentley Continental GT 2018](https://www.gta5-mods.com/vehicles/bentley-continental-gt-2018-1-0-replace-addon)
-- [2016 SRT Viper ACR](https://www.gta5-mods.com/vehicles/2014-srt-viper-t-a)
-- [2017 Koenigsegg Agera RS](https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on)
-- [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine)
-- [2016 McLaren 675LT Coupe](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-coupe-zen-imogen-zenzoit-ngr_ardiansyah)
-- [2016 Mclaren 675LT Spider](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-spider-automatic-convertible)
+- [Bentley Continental GT 2018](https://www.gta5-mods.com/vehicles/bentley-continental-gt-2018-1-0-replace-addon) - tested
+- [2016 SRT Viper ACR](https://www.gta5-mods.com/vehicles/2014-srt-viper-t-a) - tested
+- [2017 Koenigsegg Agera RS](https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on) - tested
+- [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine) - tested
+- [2016 McLaren 675LT Coupe](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-coupe-zen-imogen-zenzoit-ngr_ardiansyah) - tested
+- [2016 Mclaren 675LT Spider](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-spider-automatic-convertible) - tested
 - [2019 McLaren 720S Spider](https://www.gta5-mods.com/vehicles/2019-mclaren-720s-spider-add-on-fivem-tuning)
 - [Pagani Imola](https://www.gta5-mods.com/vehicles/pagani-imola-add-on-tuning)
 - [Audi RS5 Coupe 2020](https://www.gta5-mods.com/vehicles/audi-rs5-coupe-20)
