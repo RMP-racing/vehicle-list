@@ -126,7 +126,6 @@
 # Car Packs (210 cars)
 
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23) [3 cars] - tested
-- [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon) [8 cars]
 - [YCA Addon Car Pack](https://www.gtainside.com/en/gta5/cars/79003-yca-addon-car-pack-2013-camaro-zl1/) [5 cars]
 - [DragoN777 Add-On Car Pack](https://www.gta5-mods.com/vehicles/dragon777-add-on-car-pack) [15 cars]
 - [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [17 cars]
