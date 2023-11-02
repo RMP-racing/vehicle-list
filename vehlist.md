@@ -131,5 +131,5 @@
 - [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on) [50 cars]
 - [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
 - [Retro Emergency Vehicles Pack](https://www.gta5-mods.com/vehicles/lore-friendly-retro-emergency-vehicles-pack) [17 cars]
-- [The Consumer Pack Add-On | Extras | LODs](https://www.gta5-mods.com/vehicles/the-consumer-pack-add-on-extras-lods) [22 cars]
+- [The Consumer Pack Add-On | Extras | LODs](https://www.gta5-mods.com/vehicles/the-consumer-pack-add-on-extras-lods) [5 cars] - tested
 - [Volkswagen Golf Add-On Pack Mk1-Mk7](https://www.gta5-mods.com/vehicles/vw-golf-add-on-pack) [4 cars] - tested
