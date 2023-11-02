@@ -127,7 +127,7 @@
 
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23) [3 cars] - tested
 - [DragoN777 Add-On Car Pack](https://www.gta5-mods.com/vehicles/dragon777-add-on-car-pack) [11 cars] - tested ( gm5303 does not spawn )
-- [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [17 cars]
+- [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [16 cars] - tested
 - [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on) [50 cars]
 - [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
 - [Retro Emergency Vehicles Pack](https://www.gta5-mods.com/vehicles/lore-friendly-retro-emergency-vehicles-pack) [17 cars]
